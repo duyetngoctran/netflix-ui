@@ -2,6 +2,8 @@
 
 Netflix UI using React
 
+Live Demo https://netflixui.web.app/
+
 Data from https://api.themoviedb.org/3
 
 ## imgs
